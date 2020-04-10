@@ -1,5 +1,11 @@
-import MyComponent from './MyComponent.svelte';
+import Avatar from './Avatar.svelte';
+import Badge from './Badge.svelte';
+import Button from './Button.svelte';
+import Stack from './Stack.svelte';
 
 export {
-  MyComponent,
+  Avatar,
+  Badge,
+  Button,
+  Stack,
 }
